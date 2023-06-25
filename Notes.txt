@@ -7,3 +7,7 @@ sudo apt install npm
 Step -2 - Create Angular app
 ng new app --directory=./ --no-strict
 ------------------------------------------------------------------
+Adding Components using CLI
+ng generate componet <component-name>
+or
+ng g c <component-name>
